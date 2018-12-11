@@ -1,8 +1,8 @@
-### Peer into the Job Market for Media Student
+## Peer into the Job Market for Media Student
 
 ### Team members (GitHub id): 
-ZHANG Ning(iiiJenny)
-ZHANG Ning(ZhangNingNina) 
+ZHANG Ning(iiiJenny); 
+ZHANG Ning(ZhangNingNina); 
 HUANG Ting(Huang Ting)
 
 ### Background and motivation
@@ -10,7 +10,7 @@ With the transformation of economic structure, the current contradiction between
 
 Therefore, our group decide to explore the current employment market, and analyze the employment situation for media graduates. All the data in our research are come from the website of "看准网", "boss直聘" and "智联招聘".
 
-* Conclusion:
+* Conclusion & suggestions:
 
 1. Media companies with higher salary and rating rankings are generally located in Beijing and Shanghai, so you can give priority to these two cities if you are eager to become a media person.
 
