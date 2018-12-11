@@ -17,12 +17,14 @@ Therefore, our group decide to explore the current employment market, and analyz
 2. The salary in the field of media was not satisfying comparing to other hot industry. But according to our analysis, if you have dream and are eager to enter the media industry, stick to your job for around 3 years and the salary will increase obviously.
 
 ### Quick pointers to key files
-* we have two versions of our final research: Final_report (including viz code).ipynb & Final_report (without code).ipynb
-[Final_report (including viz code)](https://nbviewer.jupyter.org/github/iiijenny/job_market_for_media_student/blob/master/Final_report%20%28including%20viz%20code%29.ipynb)
-* data collection code: *all the code we used to scrape & clean data*
-* csv: *all data sheets* 
-* images: *all visualization results of our research*
-* Bonus:
+* we have two versions of our final research:
+[Final_report (including viz code).ipynb](https://nbviewer.jupyter.org/github/iiijenny/job_market_for_media_student/blob/master/Final_report%20%28including%20viz%20code%29.ipynb)
+& Final_report (without code).ipynb
+
+* 'data collection code': *all the code we used to scrape & clean data*
+* 'csv': all data sheets* 
+* 'images': all visualization results of our research*
+* 'Bonus':
 1. Bonus url: https://zhangningnina.github.io/big-road/  
 2. Link to the Bonus's GitHub repo: https://github.com/ZhangNingNina/big-road 
  (index.html)
