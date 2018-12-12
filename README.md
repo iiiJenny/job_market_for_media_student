@@ -19,14 +19,21 @@ Therefore, our group decide to explore the current employment market, and analyz
 ### Quick pointers to key files
 * we have two versions of our final research:
 [Final_report (including viz code).ipynb](https://nbviewer.jupyter.org/github/iiijenny/job_market_for_media_student/blob/master/Final_report%20%28including%20viz%20code%29.ipynb)
-& Final_report (without code).ipynb
+& [Final_report (without code).ipynb](https://nbviewer.jupyter.org/github/iiijenny/job_market_for_media_student/blob/master/Final_report%20%28without%20code%29.ipynb)
 
 * data collection code: all the code we used to scrape & clean data
 * csv: all data sheets
 * images: all visualization results of our research
+* Prezi: https://prezi.com/p/quhfjsldlajk/ 
 * Bonus:
 1. Bonus url: https://zhangningnina.github.io/big-road/  
 2. Link to the Bonus's GitHub repo: https://github.com/ZhangNingNina/big-road 
  (index.html)
 
 ### References
+* 看准网: https://www.kanzhun.com/
+* boss直聘：https://www.zhipin.com/
+* 智联招聘：https://www.zhaopin.com/
+* 北京日报，我国就业市场新特点、新变化、新趋势：http://www.bjd.com.cn/sy/llzk/201702/13/t20170213_11052410.html
+* 2018年第二季度《中国就业市场景气报告》:http://www.sohu.com/a/244596599_102681
+
