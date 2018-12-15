@@ -1,6 +1,6 @@
 # Peer into the Job Market for Media Student
 
-## Team members (GitHub id): 
+## Team members 
 * ZHANG Ning, [@iiiJenny](https://github.com/iiiJenny)
 * ZHANG Ning, [@ZhangNingNina](https://github.com/ZhangNingNina)
 * HUANG Ting, [@trista520](https://github.com/trista520)
